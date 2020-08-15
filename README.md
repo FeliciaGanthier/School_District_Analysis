@@ -24,13 +24,13 @@ After my initial report, Maria asked for a deeper analysis using each school’s
 
 •	Lowest performing schools based on the overall percentage of students who passed will help the district determine if more money needs to be allocated to these schools or if other solutions are needed, based on what the data shows. 
 
-!Overall Summary Original Photo(https://github.com/FeliciaGanthier/School_District_Analysis/blob/master/Resources/Overall_Summary_Original.png)
+![Overall Summary Original Photo](https://github.com/FeliciaGanthier/School_District_Analysis/blob/master/Resources/Overall_Summary_Original.png)
 
 The school board is concerned about academic dishonesty at Thomas High School and to uphold state-testing standards, I replaced the math and reading scores for Thomas High School nineth graders (the grade in question)with NaNs while keeping the rest of the data intact. Then I updated the district summary with the adjusted data to recalculate the passing math and reading percentages and overall passing percentage with the recalculated student count.
 
-!NaN Scores photo(https://github.com/FeliciaGanthier/School_District_Analysis/blob/master/Resources/NaN%20Scores.png)
+![NaN Scores photo](https://github.com/FeliciaGanthier/School_District_Analysis/blob/master/Resources/NaN%20Scores.png)
 
-!Delieverable 1 photo(https://github.com/FeliciaGanthier/School_District_Analysis/blob/master/Resources/Deliverable%201.png)
+![Delieverable 1 photo](https://github.com/FeliciaGanthier/School_District_Analysis/blob/master/Resources/Deliverable%201.png)
 
 Unfortunately, due to an error in either the Challenge Starter Set and/or Challenge Instructions, there was no change in the summaries and the affect on the Thomas High School’s performance relative to the other schools, scores by school spending, scores by school size and scores by school size cannot be determined. There would be an impact on the math and reading scores by grade because the Thomas High School student count was reduced by 461 students. 
 
